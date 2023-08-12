@@ -1,4 +1,5 @@
 LGMVIP–DataScience-Task-1
+
 This project aims to solve the IRIS Flower Classification problem using machine learning techniques, specifically employing a decision tree algorithm and evaluating the model’s performance using a confusion matrix. The IRIS Flower Classification problem involves identifying different species of iris flowers based on their measurements.
 
 The decision tree algorithm is a popular supervised machine learning technique employed in this project. The algorithm builds a tree-like model, where each internal node represents a feature or attribute, each branch represents a decision rule, and each leaf node represents the outcome or class label. By recursively partitioning the dataset based on feature values, the decision tree algorithm learns to accurately classify iris flowers into their respective species.
